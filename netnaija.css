@@ -1,0 +1,197 @@
+body {
+    background-color: rgb(211, 203, 203);
+}
+
+.paul {
+    border: 2px solid red;
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    /* display: flex;
+    align-items: center;
+    justify-content: space-between; */
+}
+
+.mary {
+    /* border: 2px solid black; */
+    width: 100%;
+    /* margin-top: 3%; */
+    height: 60px;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    position: sticky;
+    top: 0;
+}
+
+#daniel a {
+    color: white;
+    align-items: center;
+    margin-left: 20px;
+    display: flex;
+    text-decoration: none;
+}
+
+#othniel  {
+    color: white;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: inherit;
+    list-style: none;
+    justify-content: space-between;
+    width: 400px;
+    margin-left: 650px;
+    font-weight: bolder;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#othniel a {
+    color: white;
+    text-decoration: none;
+}
+
+.peniel {
+    align-items: center;
+    margin-left: 20px;
+    display: flex;
+}
+
+main {
+display: flex;
+}
+
+.adejumo {
+    /* border: 2px solid black; */
+    width: 60px;
+    height: 99vh;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.news {
+    border: 2px solid black;
+    width: 100vw;
+    height: 805px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.newsone {
+    display: flex;
+}
+
+.one {
+    /* border: 2px solid black; */
+    width: 400px;
+    height: 400px;
+    background-image: url(images/NetNaija/unnamed.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.two {
+    /* border: 2px solid black; */
+    width: 400px;
+    height: 400px;
+    background-image: url(images/NetNaija/unnamed\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 5px;
+}
+
+.three {
+    /* border: 2px solid black; */
+    width: 400px;
+    height: 400px;
+    background-image: url(images/NetNaija/unnamed\ \(2\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 5px;
+}
+
+.four {
+    /* border: 2px solid black; */
+    width: 400px;
+    height: 400px;
+    background-image: url(images/NetNaija/unnamed\ \(3\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 5px;
+}
+
+.newstwo {
+    display: flex;
+    margin-top: 5px;
+}
+
+.five {
+    /* border: 2px solid black; */
+    width: 400px;
+    height: 400px;
+    background-image: url(images/NetNaija/unnamed\ \(4\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.six {
+    /* border: 2px solid black; */
+    width: 400px;
+    height: 400px;
+    background-image: url(images/NetNaija/unnamed\ \(5\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 5px;
+}
+
+
+
+.seven {
+    /* border: 2px solid black; */
+    width: 400px;
+    height: 400px;
+    background-image: url(images/NetNaija/unnamed\ \(6\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 5px;
+}
+
+.eight {
+    /* border: 2px solid black; */
+    width: 400px;
+    height: 400px;
+    background-image: url(images/NetNaija/unnamed\ \(7\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 5px;
+}
+
+h1 {
+    display: flex;
+    
+}
+
+.p {
+    border: 5px solid red;
+    width: 50vw;
+    margin-top: 20px;
+}
+
+.latest-cont {
+    display: flex;
+}
+
